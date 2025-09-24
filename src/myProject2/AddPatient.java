@@ -18,7 +18,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.awt.event.ActionEvent;
-
+//my first commit
 public class AddPatient extends JFrame {
 
 	private JPanel winContentPane;

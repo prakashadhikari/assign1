@@ -20,7 +20,7 @@ import java.io.PrintWriter;
 import java.awt.event.ActionEvent;
 
 public class AddPatient extends JFrame {
-
+//trying commit
 	private JPanel winContentPane;
 	private JTextField textFieldId;
 	private JTextField textFieldName;
